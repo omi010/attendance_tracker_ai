@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+firebase-admin
+python-jose
+passlib[bcrypt]
+pytesseract
+Pillow
+joblib
+scikit-learn
+pandas
+requests
+python-dotenv
