@@ -14,3 +14,4 @@ requests
 python-dotenv
 twilio
 speechrecognition
+sqlalchemy>=2.0.0
