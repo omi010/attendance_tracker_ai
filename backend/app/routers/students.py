@@ -1,5 +1,6 @@
 from fastapi import APIRouter
-from app import models, schemas
+# Use relative imports instead of absolute
+from .. import models, schemas
 
 router = APIRouter()
 
