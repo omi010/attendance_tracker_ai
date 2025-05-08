@@ -14,4 +14,3 @@ requests
 python-dotenv
 twilio
 speechrecognition
-openai  # if using GPT for voice/OCR-based AI
